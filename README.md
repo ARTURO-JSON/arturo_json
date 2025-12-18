@@ -1,4 +1,4 @@
-# Hi, I'm Arturo 👋
+# Hi, I'm Arturo 😝
 
 ### Full-Stack Developer | React & MERN Stack Specialist
 
