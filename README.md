@@ -127,10 +127,8 @@ A robust frontend application showcasing:
 ## 📊 GitHub Activity
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARTURO-JSON&show_icons=true&theme=radical&hide_border=true)
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARTURO-JSON&layout=compact&theme=radical&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/? user=ARTURO-JSON&theme=radical&hide_border=true)
 
 </div>
 
@@ -163,7 +161,7 @@ I excel in collaborative environments, communicate effectively with technical an
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000? style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARTURO-JSON)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/https://github.com/ARTURO-JSON)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturo.json@gmail.com)
 
