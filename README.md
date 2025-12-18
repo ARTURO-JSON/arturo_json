@@ -161,8 +161,6 @@ I excel in collaborative environments, communicate effectively with technical an
 
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/https://github.com/ARTURO-JSON)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturo.json@gmail.com)
 
 </div>
